@@ -53,7 +53,7 @@ Currently, I am investigating **IO/Compute parallelization** and **KV-cache opti
 *   Developed a unified abstraction layer decoupling model logic from execution backends (Slurm, Local, API).
 
 
-#### [Information Digest Infrastructure](https://github.com/EJustice1)](https://github.com/EJustice1/perplexity-clone)
+#### [Information Digest Infrastructure](https://github.com/EJustice1/perplexity-clone)
 *   Automated infrastructure lifecycle using **Terraform** and **GitHub Actions**.
 *   Built a rigorous CI/CD pipeline executing Pytest suites before deploying containerized services to **GCP Cloud Run**.
 
